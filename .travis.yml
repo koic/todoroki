@@ -4,7 +4,6 @@ before_install:
 gemfile:
   - Gemfile
 rvm:
-  - 2.0.0
   - 2.1
   - 2.2.2
   - ruby-head
